@@ -1,0 +1,7 @@
+*
+!Dockerfile
+!Dockerfile.source
+!engine.cpp
+!output.hpp
+!bin
+!bin/engine-linux-amd64
